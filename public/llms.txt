@@ -7,69 +7,69 @@
 ## Pages
 
 ### בית
-https://perfume-samples-b1024e1f.zappy5.app
+https://example.com
 תיקנו לכם חוויית ריח יוקרתית עם דוגמיות בושם מקוריות. שווה לכם לטבול בניחוחות מרחבי העולם, לגלות את הבושם המושלם ולהתאהב בכל תו. התחילו עכשיו!
 
 ### חוויית גילוי
-https://perfume-samples-b1024e1f.zappy5.app/discovery-experience
+https://example.com/discovery-experience
 שווה לכם לגלות את הבושם שמדבר אליכם דרך סדנת ריח אינטראקטיבית. תיקנו לכם מסע מותאם אישית בין תווים נדירים ומשפחות ריח שיקסימו אתכם. הצטרפו עכשיו!
 
 ### אודות
-https://perfume-samples-b1024e1f.zappy5.app/about
+https://example.com/about
 תיקנו לכם מותג שצומח מאהבה אמיתית לעולם הבשמים. שווה לכם להכיר את החזון, האומנות והתשוקה שמאחורי כל דוגמית שאנחנו אוצרים בקפידה עבורכם. קראו עוד!
 
 ### צור קשר
-https://perfume-samples-b1024e1f.zappy5.app/contact
+https://example.com/contact
 שווה לכם ליצור איתנו קשר ולקבל הכוונה אישית לעולם הריח. תיקנו לכם מענה מהיר, חם ומקצועי לכל שאלה על דוגמיות, התאמות או הזמנות מיוחדות. כתבו לנו!
 
 ### Products
-https://perfume-samples-b1024e1f.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - Perfume samples
 
 ### Cart
-https://perfume-samples-b1024e1f.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://perfume-samples-b1024e1f.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://perfume-samples-b1024e1f.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://perfume-samples-b1024e1f.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://perfume-samples-b1024e1f.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://perfume-samples-b1024e1f.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - Perfume samples
 
 ### Category
-https://perfume-samples-b1024e1f.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - Perfume samples
 
 ### תודה על פנייתך
-https://perfume-samples-b1024e1f.zappy5.app/thank-you
+https://example.com/thank-you
 Perfume samples - תודה על פנייתך
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://perfume-samples-b1024e1f.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://perfume-samples-b1024e1f.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://perfume-samples-b1024e1f.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -97,8 +97,8 @@ Perfume & Fragrance
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://perfume-samples-b1024e1f.zappy5.app/sitemap.xml
-- Robots: https://perfume-samples-b1024e1f.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://perfume-samples-b1024e1f.zappy5.app/llms-full.txt
-- Products (JSON): https://perfume-samples-b1024e1f.zappy5.app/products.json
-- Products (Google Merchant RSS): https://perfume-samples-b1024e1f.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
