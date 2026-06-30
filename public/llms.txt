@@ -1,0 +1,104 @@
+# Perfume samples — Generative Engine Optimization Map
+
+> A perfume and fragrance business seeking an online presence. The brand revolves around the world of scents and fragrances, likely targeting customers who appreciate fine perfumes and aromatic products.
+
+---
+
+## Pages
+
+### בית
+https://perfume-samples-b1024e1f.zappy5.app
+תיקנו לכם חוויית ריח יוקרתית עם דוגמיות בושם מקוריות. שווה לכם לטבול בניחוחות מרחבי העולם, לגלות את הבושם המושלם ולהתאהב בכל תו. התחילו עכשיו!
+
+### חוויית גילוי
+https://perfume-samples-b1024e1f.zappy5.app/discovery-experience
+שווה לכם לגלות את הבושם שמדבר אליכם דרך סדנת ריח אינטראקטיבית. תיקנו לכם מסע מותאם אישית בין תווים נדירים ומשפחות ריח שיקסימו אתכם. הצטרפו עכשיו!
+
+### אודות
+https://perfume-samples-b1024e1f.zappy5.app/about
+תיקנו לכם מותג שצומח מאהבה אמיתית לעולם הבשמים. שווה לכם להכיר את החזון, האומנות והתשוקה שמאחורי כל דוגמית שאנחנו אוצרים בקפידה עבורכם. קראו עוד!
+
+### צור קשר
+https://perfume-samples-b1024e1f.zappy5.app/contact
+שווה לכם ליצור איתנו קשר ולקבל הכוונה אישית לעולם הריח. תיקנו לכם מענה מהיר, חם ומקצועי לכל שאלה על דוגמיות, התאמות או הזמנות מיוחדות. כתבו לנו!
+
+### Products
+https://perfume-samples-b1024e1f.zappy5.app/products
+המוצרים שלנו - Perfume samples
+
+### Cart
+https://perfume-samples-b1024e1f.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://perfume-samples-b1024e1f.zappy5.app/checkout
+תשלום
+
+### Login
+https://perfume-samples-b1024e1f.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://perfume-samples-b1024e1f.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://perfume-samples-b1024e1f.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://perfume-samples-b1024e1f.zappy5.app/product/:slug
+פרטי המוצר - Perfume samples
+
+### Category
+https://perfume-samples-b1024e1f.zappy5.app/category/:slug
+מוצרים - Perfume samples
+
+### תודה על פנייתך
+https://perfume-samples-b1024e1f.zappy5.app/thank-you
+Perfume samples - תודה על פנייתך
+
+## Legal & Policy
+
+### Privacy Policy
+https://perfume-samples-b1024e1f.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://perfume-samples-b1024e1f.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://perfume-samples-b1024e1f.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Perfume samples
+A perfume and fragrance business seeking an online presence. The brand revolves around the world of scents and fragrances, likely targeting customers who appreciate fine perfumes and aromatic products.
+
+## Target Audience
+- אספני בשמים יוקרתיים
+- מקצוענים צעירים חובבי ריחות
+- קונים מתנות
+
+## Industry
+Perfume & Fragrance
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://perfume-samples-b1024e1f.zappy5.app/sitemap.xml
+- Robots: https://perfume-samples-b1024e1f.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://perfume-samples-b1024e1f.zappy5.app/llms-full.txt
+- Products (JSON): https://perfume-samples-b1024e1f.zappy5.app/products.json
+- Products (Google Merchant RSS): https://perfume-samples-b1024e1f.zappy5.app/product-feed.xml
